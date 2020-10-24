@@ -1,2 +1,3 @@
-# Destini-app
-A story mode game
+# Face Recognition completly done in c++
+ 
+ Requirements : 
