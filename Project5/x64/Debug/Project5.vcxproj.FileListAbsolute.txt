@@ -1,0 +1,2 @@
+C:\Users\milin\source\repos\Project5\x64\Debug\Project5.exe
+C:\Users\milin\source\repos\Project5\x64\Debug\Project5.pdb

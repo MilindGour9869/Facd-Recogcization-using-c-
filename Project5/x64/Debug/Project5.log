@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\milin\source\repos\Project5\Source.cpp(116,7): warning C4101: 'key': unreferenced local variable
+C:\Users\milin\source\repos\Project5\Source.cpp(279,102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\milin\source\repos\Project5\Source.cpp(285,112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\milin\source\repos\Project5\Source.cpp(286,144): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project5.vcxproj -> C:\Users\milin\source\repos\Project5\x64\Debug\Project5.exe
